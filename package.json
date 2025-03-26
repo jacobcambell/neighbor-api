@@ -1,0 +1,19 @@
+{
+    "name": "neighbor-takehome",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "vitest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "express": "4.21.2",
+        "lodash": "4.17.21"
+    },
+    "devDependencies": {
+        "vitest": "3.0.9"
+    }
+}
